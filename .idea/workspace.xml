@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6891880a-b840-46df-af0a-de02b686ac94" name="Default Changelist" comment="" />
+    <list default="true" id="6891880a-b840-46df-af0a-de02b686ac94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/java/一、概念、安装与配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/一、概念、安装与配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/二、基础语法与规范.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/二、基础语法与规范.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -33,13 +36,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="230" />
+          <entry key="md" value="312" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="255" />
+          <entry key="PLAIN_TEXT" value="337" />
         </counts>
       </usages-collector>
     </session>
@@ -49,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/一、概念、安装与配置.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+            <state relative-caret-position="1161">
+              <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -58,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/二、基础语法与规范.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2762">
-              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -86,8 +89,8 @@
         <option value="$PROJECT_DIR$/java/1、Java的概念、安装与配置.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/java/一、Java的概念、安装与配置.md" />
-        <option value="$PROJECT_DIR$/java/一、概念、安装与配置.md" />
         <option value="$PROJECT_DIR$/java/二、基础语法与规范.md" />
+        <option value="$PROJECT_DIR$/java/一、概念、安装与配置.md" />
       </list>
     </option>
   </component>
@@ -161,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555549508308</updated>
-      <workItem from="1555549509696" duration="8907000" />
+      <workItem from="1555549509696" duration="10146000" />
     </task>
     <task id="LOCAL-00001" summary="1.update style bug;">
       <created>1555556880929</created>
@@ -174,7 +177,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8907000" />
+    <option name="totallyTimeSpent" value="10146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="304" width="1382" height="784" extended-state="6" />
@@ -233,15 +236,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/一、概念、安装与配置.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        <state relative-caret-position="1161">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/二、基础语法与规范.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2762">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
