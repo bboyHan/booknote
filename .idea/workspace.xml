@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6891880a-b840-46df-af0a-de02b686ac94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/1、Java的概念、安装与配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6891880a-b840-46df-af0a-de02b686ac94" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/1、Java的概念、安装与配置.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="248">
+              <caret line="73" column="8" lean-forward="true" selection-end-line="83" />
             </state>
           </provider>
         </entry>
@@ -93,6 +90,11 @@
               <item name="booknote" type="b2602c69:ProjectViewProjectNode" />
               <item name="booknote" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="booknote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="booknote" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -105,6 +107,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,12 +131,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555549508308</updated>
-      <workItem from="1555549509696" duration="2007000" />
+      <workItem from="1555549509696" duration="2845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2007000" />
+    <option name="totallyTimeSpent" value="2845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="304" width="1382" height="784" extended-state="6" />
@@ -181,8 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/1、Java的概念、安装与配置.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="248">
+          <caret line="73" column="8" lean-forward="true" selection-end-line="83" />
         </state>
       </provider>
     </entry>
