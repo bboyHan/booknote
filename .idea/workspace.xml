@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6891880a-b840-46df-af0a-de02b686ac94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/java_runtime_data_area.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/四、操作符、流程控制.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/三、变量与数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/三、变量、数据类型与内存分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,36 +20,36 @@
     <session id="-1449432018">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="md" value="8" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="2863" />
+          <entry key="md" value="3653" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2437" />
+          <entry key="Markdown" value="3227" />
           <entry key="PLAIN_TEXT" value="451" />
         </counts>
       </usages-collector>
@@ -81,12 +83,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/三、变量、数据类型与内存分析.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="321">
-                <caret line="149" column="9" lean-forward="true" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+              <first_editor relative-caret-position="162">
+                <caret line="171" selection-start-line="171" selection-end-line="172" selection-end-column="9" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="647">
+                <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -99,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/mysql/一、基本操作与数据类型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="216">
+              <first_editor relative-caret-position="-3322">
                 <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor>
@@ -136,6 +152,8 @@
         <option value="$PROJECT_DIR$/mysql/一、基本操作.md" />
         <option value="$PROJECT_DIR$/java/三、变量与数据类型.md" />
         <option value="$PROJECT_DIR$/java/三、变量、数据类型与内存分析.md" />
+        <option value="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" />
+        <option value="$PROJECT_DIR$/java/四、操作符、流程控制.md" />
       </list>
     </option>
   </component>
@@ -152,8 +170,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1173" />
-    <option name="y" value="303" />
+    <option name="x" value="700" />
+    <option name="y" value="-17" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -229,7 +247,8 @@
       <workItem from="1555549509696" duration="11400000" />
       <workItem from="1555654947398" duration="10555000" />
       <workItem from="1555892399559" duration="8351000" />
-      <workItem from="1555913758538" duration="840000" />
+      <workItem from="1555913758538" duration="2762000" />
+      <workItem from="1556084002729" duration="7325000" />
     </task>
     <task id="LOCAL-00001" summary="1.update style bug;">
       <created>1555556880929</created>
@@ -242,13 +261,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31146000" />
+    <option name="totallyTimeSpent" value="40393000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="304" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14857745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,25 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/一、基本操作与数据类型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/二、基础语法与规范.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -337,11 +337,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/三、变量、数据类型与内存分析.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/一、基本操作与数据类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3322">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="321">
-            <caret line="149" column="9" lean-forward="true" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+          <first_editor relative-caret-position="162">
+            <caret line="171" selection-start-line="171" selection-end-line="172" selection-end-column="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="647">
+            <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
