@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6891880a-b840-46df-af0a-de02b686ac94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/java_runtime_data_area.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/四、操作符、流程控制.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="3653" />
+          <entry key="md" value="3679" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3227" />
+          <entry key="Markdown" value="3253" />
           <entry key="PLAIN_TEXT" value="451" />
         </counts>
       </usages-collector>
@@ -83,12 +80,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="162">
-                <caret line="171" selection-start-line="171" selection-end-line="172" selection-end-column="9" />
+              <first_editor relative-caret-position="378">
+                <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -97,12 +94,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="647">
-                <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+              <first_editor relative-caret-position="324">
+                <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -152,8 +149,8 @@
         <option value="$PROJECT_DIR$/mysql/一、基本操作.md" />
         <option value="$PROJECT_DIR$/java/三、变量与数据类型.md" />
         <option value="$PROJECT_DIR$/java/三、变量、数据类型与内存分析.md" />
-        <option value="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" />
         <option value="$PROJECT_DIR$/java/四、操作符、流程控制.md" />
+        <option value="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" />
       </list>
     </option>
   </component>
@@ -248,7 +245,7 @@
       <workItem from="1555654947398" duration="10555000" />
       <workItem from="1555892399559" duration="8351000" />
       <workItem from="1555913758538" duration="2762000" />
-      <workItem from="1556084002729" duration="7325000" />
+      <workItem from="1556084002729" duration="7910000" />
     </task>
     <task id="LOCAL-00001" summary="1.update style bug;">
       <created>1555556880929</created>
@@ -261,7 +258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40393000" />
+    <option name="totallyTimeSpent" value="40978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -356,11 +353,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md">
+    <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="162">
-            <caret line="171" selection-start-line="171" selection-end-line="172" selection-end-column="9" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -368,11 +365,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
+    <entry file="file://$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="647">
-            <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="378">
+            <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
