@@ -52,11 +52,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
+        <entry file="file://$PROJECT_DIR$/java/四、操作符与流程控制.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <first_editor relative-caret-position="162">
+                <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -103,6 +103,7 @@
         <option value="$PROJECT_DIR$/java/三、变量、数据类型与内存分析.md" />
         <option value="$PROJECT_DIR$/java/三、进制、数据类型与内存分析.md" />
         <option value="$PROJECT_DIR$/java/四、操作符、流程控制.md" />
+        <option value="$PROJECT_DIR$/java/四、操作符与流程控制.md" />
       </list>
     </option>
   </component>
@@ -305,11 +306,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/四、操作符、流程控制.md">
+    <entry file="file://$PROJECT_DIR$/java/四、操作符与流程控制.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <first_editor relative-caret-position="162">
+            <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
